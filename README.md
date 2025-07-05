@@ -6,10 +6,10 @@ Features
 2. Dark/Light Theme: Toggle between themes using the moon/sun button
 3. Smooth Navigation: Click menu items to smoothly scroll to sections
 ## Sections
-About: Personal introduction and background
-Skills: Technical skills 
-Contact: Contact form with name, email, and message fields
+- About: Personal introduction and background
+- Skills: Technical skills 
+- Contact: Contact form with name, email, and message fields
 ## Technologies Used
-HTML5: Website structure and content
-CSS: Styling, animations, and responsive design
-JavaScript: Interactive features and form handling
+- HTML5: Website structure and content
+- CSS: Styling, animations, and responsive design
+- JavaScript: Interactive features and form handling
