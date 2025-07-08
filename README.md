@@ -7,5 +7,5 @@ A simple, responsive personal website built with HTML and CSS Features.
 - About: Personal introduction and background
 - Skills: Technical skills 
 ## Technologies Used
-- HTML5: Website structure and content
+- HTML: Website structure and content
 - CSS: Styling, animations, and responsive design
